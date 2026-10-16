@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Home"},{"path":"/bike/:id","title":"Bike detail"},{"path":"/academy","title":"Repair Academy"},{"path":"/compare","title":"Compare bikes"},{"path":"/wishlist","title":"Wishlist"},{"path":"/quiz","title":"Quiz"}]}
